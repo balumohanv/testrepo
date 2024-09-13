@@ -2,4 +2,4 @@
 # This is a YAML-formatted file.
 # Declare variables to be passed into your templates.
 podAnnotations:
-	from_argocd: "Deployed_from_argocd"
+ from_argocd: "Deployed_from_argocd"
